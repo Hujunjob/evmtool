@@ -1,0 +1,18 @@
+{
+  "name": "evmtool",
+  "version": "0.0.1",
+  "description": "evm tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "evm"
+  ],
+  "author": "luckyhu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "viem": "^2.7.22"
+  }
+}
